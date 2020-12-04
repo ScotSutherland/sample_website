@@ -1,0 +1,38 @@
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+.nav-menu {
+	text-align: right;
+}
+.nav-item {
+	color: #444; 
+	text-decoration: none;
+}
+.image-link {
+	display: block; 
+	margin: 0 auto;
+}
+.book-report {
+	width: 500px; 
+	margin: 29px auto; 
+	padding: 30px; 
+	background-color: #fafafa
+}
+.book-cover {
+	float: left; 
+	margin-right: 40px;
+}
+.block-quote {
+	font-style: italic; 
+	font-size: 20px;
+}
+.text-pop {
+	font-style: normal; 
+	font-size: 24px; 
+	font-weight: bold; 
+	color: #cccccc;
+}
+.title-header {
+	text-align: center; 
+	margin: 0 0 80px;
+}
